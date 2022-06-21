@@ -1,8 +1,8 @@
 ### Oie, eu sou a Bruna/Bn
 
 
-- 🌱 Estou aprendendo a programar em Python
-- 🤔 Procuro ajuda em como seguir no ramo da programação/Dicas
+- 🌱  Iniciante em Python
+- 🤔  Se tiver dicsa eu agradeço
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
