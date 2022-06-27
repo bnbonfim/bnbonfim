@@ -2,7 +2,7 @@
 
 
 - 🌱  Iniciante em Python
-- 🤔  Se tiver dicas eu agradeço
+- 🤔  Se tiver dicas eu agradeço!
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
