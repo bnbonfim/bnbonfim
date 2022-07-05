@@ -12,9 +12,12 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Bn-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt="Bn-pic" height="150" style="border-radius:50px;"
+  <img align="center" alt="Bn-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Bn-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Bn-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align="right" alt="Bn-pic" height="150" style="border-radius:50px;"
        src="https://media.discordapp.net/attachments/747920394916331583/988937869441781810/download20220602190601.png?width=427&height=427">
+       
 </div>
   
   ##
