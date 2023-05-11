@@ -3,7 +3,6 @@
 
 - 🌱  Iniciante em Python
 - 🤔  Se tiver dicas agradeço!
-- 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/bnbonfim">
