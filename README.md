@@ -1,9 +1,5 @@
 ### Oie, eu sou a Bruna/Bn
 
-
-- 🌱  Iniciante em Python
-- 🤔  Se tiver dicas agradeço!
-
 <div align="center">
   <a href="https://github.com/bnbonfim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bnbonfim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
