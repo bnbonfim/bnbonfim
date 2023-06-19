@@ -1,4 +1,4 @@
-### Oie, eu sou a Bruna/Bn
+### Oie, eu sou a Bn!
 
 <div align="center">
   <a href="https://github.com/bnbonfim">
